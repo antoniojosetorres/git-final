@@ -1,7 +1,12 @@
 Antonio José Torres Rodríguez de Almansa
+<<<<<<< HEAD
+Silvia Torregrosa Mejias  
+Andres Pino Gallardo
+=======
 Silvia Torregrosa Mejias
 <<<<<<< HEAD
 Juan Carlos Beato Pérez
 =======
 Ricardo Vela Cardeñosa
 >>>>>>> 7ae7af26b63238e772e9e33c1cb3c4f2438e3826
+>>>>>>> a1b0ccc82fe4bd081ac8eae18e299148cf53aedd
